@@ -1,7 +1,7 @@
 ### Hi there I'm Nasim Alizai 👋
 
-- 📫 How to reach me: Sayedhakimi449@gmail.com
- <a href="tel:+93788744798"> (+93) 788 744 798</a>
+- 📫 How to reach me: Sayedhakimi449@gmail.com | <a href="tel:+93788744798"> (+93) 788 744 798</a>
+ 
 
 <!--
 **Nasim-Alizai/Nasim-Alizai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
