@@ -29,6 +29,5 @@ Here are some ideas to get you started:
     
     
     |GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=Nasim-Alizai&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=Nasim-Alizai&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/Nasim-Alizai/github-readme-stats)|
+[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=Nasim-Alizai&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/Nasim-Alizai/github-readme-stats)|
 
