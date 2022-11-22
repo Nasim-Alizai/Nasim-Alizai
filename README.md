@@ -26,4 +26,9 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasim-Alizai&theme=onedark&hide_border=true"/>
     </a>
+    
+    
+    |GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![Ahmad Joya's github stats](https://github-readme-stats.vercel.app/api?username=Nasim-Alizai&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=Nasim-Alizai&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/Nasim-Alizai/github-readme-stats)|
 
